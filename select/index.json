@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Best Day Of My Life",
+  "base_artist": "アメリカン・オーサーズ",
+  "createdAt": "2026-01-13T16:58:15.351382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "Elenyi",
+      "has_synced": true,
+      "path": "select/01_Best_Day_of_My_Life_Elenyi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/02_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/03_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/04_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/05_Best_Day_of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/06_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "Tom Odell",
+      "has_synced": true,
+      "path": "select/07_Best_Day_of_My_Life_Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "American Authors",
+      "has_synced": false,
+      "path": "select/08_Best_Day_of_My_Life_American_Authors.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/09_Best_Day_of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "Tom Odell",
+      "has_synced": true,
+      "path": "select/10_Best_Day_Of_My_Life_Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Best Day of My Life",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/11_Best_Day_of_My_Life_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Best Day of My Life!",
+      "artist": "The Aquabats!",
+      "has_synced": false,
+      "path": "select/12_Best_Day_of_My_Life!_The_Aquabats!.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/13_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "has_synced": true,
+      "path": "select/14_Best_Day_Of_My_Life_American_Authors.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Day of My Life",
+      "artist": "American Authors",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Day_of_My_Life_American_Authors.txt"
+    }
+  ]
+}
